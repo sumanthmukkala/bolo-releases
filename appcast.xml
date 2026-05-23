@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bolo Desktop</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 23 May 2026 16:51:00 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.0/Bolo-Desktop-0.1.0.dmg" length="100618123" type="application/octet-stream" sparkle:edSignature="1CvJ/7oey7KxX/pdjKBEuht2S+zqFEVIYjezi997o3P/Ifi4WlRVjWmTgxoX63Mz6UlJ28pGLowr/7l22poxCw=="/>
+        </item>
+    </channel>
+</rss>
