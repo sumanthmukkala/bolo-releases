@@ -3,12 +3,23 @@
     <channel>
         <title>Bolo Desktop</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Sat, 23 May 2026 21:10:24 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.1/Bolo-Desktop-0.1.1.dmg" length="100618260" type="application/octet-stream" sparkle:edSignature="S//6eKObK6/Wuh0yxK+VKXCJ7Y1l0Qw760rPGOV1uMO0uuEBaUtqUqoAwvBcMcs0Ek7bvqKccZJcCUeJhQvVAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.1/Bolo%20Desktop2-1.delta" sparkle:deltaFrom="1" length="1551198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jf/Eazp0mEvQTAW+hMzEUD6MBs4JEdX2E5A5TY5Gof/aVPvbiXiBN14ImHFtm/IXIm8hrDwe2Vv0IXlaFgzDCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sat, 23 May 2026 16:51:00 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.0/Bolo-Desktop-0.1.0.dmg" length="100618123" type="application/octet-stream" sparkle:edSignature="1CvJ/7oey7KxX/pdjKBEuht2S+zqFEVIYjezi997o3P/Ifi4WlRVjWmTgxoX63Mz6UlJ28pGLowr/7l22poxCw=="/>
+            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.1/Bolo-Desktop-0.1.0.dmg" length="100618123" type="application/octet-stream" sparkle:edSignature="1CvJ/7oey7KxX/pdjKBEuht2S+zqFEVIYjezi997o3P/Ifi4WlRVjWmTgxoX63Mz6UlJ28pGLowr/7l22poxCw=="/>
         </item>
     </channel>
 </rss>
