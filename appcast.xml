@@ -3,12 +3,12 @@
     <channel>
         <title>Bolo Desktop</title>
         <item>
-            <title>0.1.3</title>
-            <pubDate>Sun, 24 May 2026 12:23:19 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <title>0.1.4</title>
+            <pubDate>Sun, 24 May 2026 12:41:29 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.3/Bolo-Desktop-0.1.3.dmg" length="100621946" type="application/octet-stream" sparkle:edSignature="hIwvgGMxxjL/D2kG016stL4ksmnCRi1exNUSao6YDeCYz26tut8CgsTe4UiQvCGYWAlbR1GNlhP1YjsQFFRdDA=="/>
+            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.4/Bolo-Desktop-0.1.4.dmg" length="100620580" type="application/octet-stream" sparkle:edSignature="w77CkASdlRviT3ERaWrcZeE+oYHxSDSAgfq39Ts3a9pzeIPENLKCE9AynVvOGJtqIjr/pD3Oftl3YKa65d9PBQ=="/>
         </item>
     </channel>
 </rss>
