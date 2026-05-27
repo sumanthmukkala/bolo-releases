@@ -3,12 +3,40 @@
     <channel>
         <title>Bolo Desktop</title>
         <item>
-            <title>0.1.6</title>
-            <pubDate>Sun, 24 May 2026 13:16:52 -0400</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <title>0.1.9</title>
+            <pubDate>Tue, 26 May 2026 17:19:41 -0400</pubDate>
+            <sparkle:version>202605261714</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.6/Bolo-Desktop-0.1.6.dmg" length="98383217" type="application/octet-stream" sparkle:edSignature="CcZTcY5GT2nSEvAdBTqLuMCuhxlsrrzQz+PdXMxWVNi9vA2amhGwhCR4Gby9XsB1NzXyyWVo6/gM/aE7sL2xBw=="/>
+            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.9/Bolo-0.1.9.dmg" length="98627386" type="application/octet-stream" sparkle:edSignature="G61Hnv0i7eIKMn4Uun+nzSVcsIzztjXTiq39NRhF3DOq7KEbJBjJHGXZwEekHerfU4A2KQzNhU7X0hHPVLJsAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.9/Bolo202605261714-202605250005.delta" sparkle:deltaFrom="202605250005" length="2284438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HudiiWyzKb9P29ITwobeu+AnelxvefuzyCHp/FZ1Y/C+p5e+8ZUsEk5G4wQqXCF5cPb63qDrQ/XN/+6cXoEWAA=="/>
+                <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.9/Bolo202605261714-202605241546.delta" sparkle:deltaFrom="202605241546" length="2307122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yRlOzfZ+UWvKjmohiUcieF4is9G2uA1YmrSHZ3HZGy6e4Ny//2/XuOdSEA6L3VmvviI0+5/We0iy9sbBhD9cDQ=="/>
+                <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.9/Bolo202605261714-7.delta" sparkle:deltaFrom="7" length="2550258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eHaLwLyCFon8vJx3A3Kslsw89vGxdbiWMavROjXOSa+WJWx1ToA3p3DI6Ux2DzUapwYjL4w3DT5Sgb1qzKHCCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.8</title>
+            <pubDate>Mon, 25 May 2026 00:10:17 -0400</pubDate>
+            <sparkle:version>202605250005</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.9/Bolo-0.1.8.dmg" length="98560469" type="application/octet-stream" sparkle:edSignature="IB6P6TNPVJL5op+km9HvmiEAOw1FRrmgSCELx6wkMdkrt/ADUbe98uSBVIQaepViBd5BhzzfJdeCaq0MlDjECQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.8/Bolo202605250005-202605241546.delta" sparkle:deltaFrom="202605241546" length="1929206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8RMM9UkViWLDC79k1E0aNK6R3qoS89vpZ23nGehc93USBPlp3F7dlfhtrSjWbR8uIq2nSEuLXotXEuLH6R0xCg=="/>
+                <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.8/Bolo202605250005-7.delta" sparkle:deltaFrom="7" length="2363330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ysioz8dvPp6PEhZgzWv2peqIgIGcFdz8zyezFlI3uB4oSqSJn/CgWuM1kcqiNrbcGS0MBtxgS7kDZyCHZEDCAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.7</title>
+            <pubDate>Sun, 24 May 2026 15:46:48 -0400</pubDate>
+            <sparkle:version>202605241546</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.9/Bolo-0.1.7.dmg" length="98825460" type="application/octet-stream" sparkle:edSignature="lkcCBXTHnZgUTGTlVa5eYBtYdPv1tW6D8S+AFQqv0v0vIidXOlh/eKNNbEI8joD+Xibyk1Rh9bmtNncFoTenCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sumanthmukkala/bolo-releases/releases/download/v0.1.7/Bolo202605241546-7.delta" sparkle:deltaFrom="7" length="2351914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vxcQKuQAsnM5AdmeRTM1HI5nghsdQAfEfdWmoeVRvAV+7s19xMbbY+s/IIwmGy2tLdPDmbUIAvtUc1XI07B6BA=="/>
+            </sparkle:deltas>
         </item>
     </channel>
 </rss>
